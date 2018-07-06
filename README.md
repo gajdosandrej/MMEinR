@@ -7,7 +7,9 @@ For the R version of an algorithm see the MMEinR.R file (function) available at
 
 For the current status of the MATLAB algorithm (not an identical clone) see the mixed.m file (function) available at
 
-- https://github.com/witkovsky/CharFunTool .
+- https://github.com/witkovsky/HPmixed or 
+
+- https://www.mathworks.com/matlabcentral/fileexchange/200-mixed .
 
 ### References
 
