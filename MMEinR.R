@@ -472,6 +472,8 @@ Diagm <- function(n) {
         # DIAGM Creates block-diagonal matrix from 1-vectors
         # with dimensions given in n=c(n_1,...,n_k).
         
+        library(Matrix)
+        
         ones_list <- list()
         for (i in 1:length(n)) {
                 ones_list[[i]] <- rep(1,n[i])
